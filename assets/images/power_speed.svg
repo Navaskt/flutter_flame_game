@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="100%" height="100%" rx="16" fill="#0b3e15"/>
+  <g transform="translate(16,16)">
+    <circle cx="48" cy="48" r="36" fill="#ff9800" stroke="#ef6c00" stroke-width="6"/>
+    <text x="48" y="62" font-size="36" text-anchor="middle" fill="#fff" font-family="Arial" font-weight="700">⚡</text>
+  </g>
+</svg>
